@@ -45,8 +45,8 @@
 #DO NOT REMOVE ANYTHING ABOVE THIS LINE!
 
 echo "${lightgreen}Updating ZeOg...."
-echo The file will be saved at /root/Download/
-cd /root/Download
+echo The file will be saved at /root/Downloads
+cd /root/Downloads
 git clone https://github.com/DeaDHackSTeam/ZeOg/ZeOgv2
 
 
